@@ -1,0 +1,6 @@
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio3\Ejercicio3\LibCafeteria\bin\Debug\LibCafeteria.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio3\Ejercicio3\LibCafeteria\bin\Debug\LibCafeteria.pdb
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio3\Ejercicio3\LibCafeteria\obj\Debug\LibCafeteria.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio3\Ejercicio3\LibCafeteria\obj\Debug\LibCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio3\Ejercicio3\LibCafeteria\obj\Debug\LibCafeteria.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio3\Ejercicio3\LibCafeteria\obj\Debug\LibCafeteria.pdb

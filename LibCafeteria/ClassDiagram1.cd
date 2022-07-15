@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibCafeteria.Cafe">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACACAAAgAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibCafeteria.MaquinaDeCafe">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICBAAAAgAAAAAAAAAIAAAAAAAAAgAAAAEAIAAAgABA=</HashCode>
+      <FileName>MaquinaDeCafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibCafeteria.Vaso">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAQAAAgAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Vaso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibCafeteria.Venta">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAgAAAAQAAAAEAAAAAAQAAAAEAAAAAAAAAAEA=</HashCode>
+      <FileName>Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibCafeteria.Cafeteria">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAIBCAAEACARoEUAgQAAIAABACAAAAAAGAAQCAAAgA=</HashCode>
+      <FileName>Cafeteria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibCafeteria.CreadorDeCafe">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>CreadorDeCafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibCafeteria.CreadorDeVasos">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreadorDeVasos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
